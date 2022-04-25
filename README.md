@@ -1,1 +1,1 @@
-a basic to-do list web app
+a basic to-do list.
